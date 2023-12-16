@@ -1,6 +1,6 @@
 # **Analyzing industry carbon emissions**
 
-<img src="https://lh3.googleusercontent.com/pw/ABLVV87gU0EjDX9Tfk7mbJkhYcz7Q2zXDLhd4-8X1ufR0QDBk9_rYuztDy2SNoy9R2jrCAemELtsRdi0KwvUfgbiyM_8zK0Uw8QfbIukSaPRI7y_RtNjJJ1Iyz2GiQVhYbqASNWO_Urr5inpdYj1bKiVxJAL=w1246-h632-s-no?authuser=0">
+![alt text](https://github.com/Cristhian-Ninanya/01_Industry_carbon_emissions/blob/main/images/cover.png?raw=true)
 
 Product emissions make up more than 75% of global emissions. But which industries are the worst offenders?.
 
