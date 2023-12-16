@@ -1,6 +1,6 @@
 # **Analyzing Golden Age of Video Games**
 
-<img src="https://lh3.googleusercontent.com/pw/ABLVV85jB4IjSQKXWIF4llkgtTQz5GjPx04kbBYuxDGntdlY55CvAeH-mYomPSRLlgX05qNaaMRmDsY57NNLaQZYgOcwP9xLHjKdivmco_vJyaAye_VKSsKwsmEawf0RejYgnZP1QChV-vwmVzM9JDRH6RhNLaPNSymKx0cBsGXVGOUfjDdZF4MGRHH2tumG1rMp2xDUh3gD3BRh_O8bG0a5mXJa3QpztDcIdnH_sfUORFZ1AnYIL2u9zcEAzSM50j6IVVNd_a2jKpdXAldd64QZ4NCHcE0ncmEH6Uu3tq0RnQNCQPpso5ldl2g5yNMcb1PFNlqEqoJPgDz3eel1lwnsZvnZAqDms4tL3EQIq2uJCG8nb-N-btrX6u8utDR4NvissXTOvDHh_vNPSSuk5EC16sw1T4y5EjmP9Ob9_UxyBCgKppH1pbAnqpInlcohzrvlHhNSlJn6xf64GQPG3RRrW20st578xG13DymajLmdc5tFz2ljL7TPy43Mfgj8yNpYlpOgP9HXX8mk6fA4q0sklLOx1jVvqeTH3zBf6B3v0DMfgWmcFN3mZ85Q2sEmZOt3MLD9btE6RpT5agjNikaduPx8yL3lzIFqvVN-5v5Os7AmEJuhOeIWrmpV7tGT0lpExtwCh2JuQcvvWIaGgJmwU-lcvgyYI4WS0QhyEyVGhAiRqPm0I4Wq4X_H8xbCd4oAXYoI-v0uddIBYAy8VvwprJNJ3QfgxZO739rLLEiGZAcYL8JAL3eixVRAjh3vWh-Mo7p-q55yupIBc6CvRPY3CcnHT9DsSTrrCqMFG0QsRfGOPL_SRiwNTiO2VjZrgwnUYpQwjstPf6xN-wAE6Kjbz1L7fPKIaBSX1Pj2jAKx--K18paSBAJOTXxFE-kqFWVmDCJbLg=w1440-h565-no?authuser=0">
+![alt text](https://github.com/Cristhian-Ninanya/Data_Analyst_Portfolio/blob/main/05_Golden_Age_Video_Games/images/cover.jpg?raw=true)
 
 Video games are big business: the global gaming market is projected to be worth more than $300 billion by 2027 according to Mordor Intelligence. With so much money at stake, the major game publishers are hugely incentivized to create the next big hit. But are games getting better, or has the golden age of video games already passed?
 
